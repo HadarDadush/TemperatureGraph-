@@ -9,5 +9,5 @@ A JavaFX application that visualizes temperature data over the months of a year 
 - Clear labels for months and temperatures.
 
 ## Requirements
-Java 11 or higher.
-JavaFX SDK.
+- Java 11 or higher.
+- JavaFX SDK.
